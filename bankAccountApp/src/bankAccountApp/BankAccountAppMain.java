@@ -9,6 +9,10 @@ public class BankAccountAppMain {
 		
 		Savings savacc1 = new Savings("Rich Lowe", "25764695", 2500);
 		
+		savacc1.showInfo();
+		System.out.println("*************************");
+		chkacc1.showInfo();
+		
 		
 		
 		//read a csv file then create new accounts based on that data
