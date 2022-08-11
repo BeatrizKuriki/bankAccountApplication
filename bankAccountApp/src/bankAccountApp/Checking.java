@@ -8,8 +8,8 @@ public class Checking extends Account {
 	
 	//constructor to initialize checking  account properties
 	
-	public Checking(String name) {
-		super(name);
+	public Checking(String name, String socialSecNumber, double initDeposit) {
+		super(name, socialSecNumber, initDeposit);
 		System.out.println("NEW CHECKING ACCOUNT");
 	
 	}
