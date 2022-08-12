@@ -5,9 +5,9 @@ public class BankAccountAppMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Checking chkacc1 = new Checking("BEL SANDERS ", "2.6662135468", 1500);
+		Checking chkacc1 = new Checking("BEL SANDERS ", "53363945110", 1500);
 		
-		Savings savacc1 = new Savings("Rich Lowe", "25764695", 2500);
+		Savings savacc1 = new Savings("Rich Lowe", "01004021985", 2500);
 		
 		savacc1.showInfo();
 		System.out.println("*************************");
