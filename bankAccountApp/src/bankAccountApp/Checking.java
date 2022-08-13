@@ -11,11 +11,16 @@ public class Checking extends Account {
 	public Checking(String name, String socialSecNumber, double initDeposit) {
 		super(name, socialSecNumber, initDeposit);
 		accountNumber = "2" + accountNumber;
-		setDebitCard();
-		
+		setDebitCard();	
+	
+	}
+	@Override
+	public void setRate() {
+		rate = getIBaseRate()* 0.15;
 	
 	
 	}
+	
 	private void setDebitCard() {
 		debitCardNumber = (int)(Math.random() * Math.pow(10, 12));
 		debitCardPin = (int)(Math.random() * Math.pow(10, 4));
@@ -26,7 +31,7 @@ public class Checking extends Account {
 	
 	public void showInfo() {
 		super.showInfo();
-		System.out.println("*********************************");
+		System.out.println("");
 		
 		System.out.println("Your Checking Account Features:  " +
 							"\n Debit Card Number: " +debitCardNumber+
