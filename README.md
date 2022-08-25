@@ -40,7 +40,7 @@ Pré-requisitos: Java 11
 # Ter JDK instalada na sua máquina
 
 # clonar repositório
-git clone https://github.com/BeatrizKuriki/StudentDataBase
+git clone https://github.com/BeatrizKuriki/bankAccountApplication
 
 # entrar na pasta do projeto back end
 cd 
