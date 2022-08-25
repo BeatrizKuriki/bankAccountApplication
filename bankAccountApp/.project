@@ -14,11 +14,15 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/utilities/CSV.csv.txt</name>
-			<type>1</type>
-			<location>C:/Users/55439/Documents/Projetos/CSV.csv.txt</location>
-		</link>
-	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1661434741904</id>
+			<name></name>
+			<type>30</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>node_modules|.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
 </projectDescription>
