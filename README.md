@@ -10,14 +10,14 @@ O projeto é de criação de conta bancária com intuito de continuar os estudos
 A aplicação consiste em um sistema que cria dois tipos de contas bancárias, uma poupança outra conta corrente, gera um número de ID para a poupança e um número para o cartão de débito da conta corrente, bem como seu número de pin.
 Faz o cálculo do rendimento da poupança e mostra ao final.
 
-## Layout 
-
-
+## Testes<br>
+Abaixo segue um vídeo apresentando o projeto: <br>
 
 <div align = "center">
 
 
-
+(https://www.youtube.com/watch?v=IEQ3jO01P5Q)
+  
 
 
 
