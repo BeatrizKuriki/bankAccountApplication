@@ -1,5 +1,5 @@
 # bankAccountApplication
-[![NPM](https://github.com/BeatrizKuriki/bankAccountApplication/blob/main/license)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/BeatrizKuriki/bankAccountApplication/blob/main/license)
 
 # Sobre o projeto
 
@@ -15,6 +15,7 @@ Faz o cálculo do rendimento da poupança e mostra ao final.
 
 
 <div align = "center">
+ [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=IEQ3jO01P5Q)
 
 
 
